@@ -23,3 +23,14 @@ This project simulates an entry-level HR Operations workflow utilized by profess
 *   Spreadsheet Automation & Advanced Formulas (`COUNTIF`, `COUNTA`, Logical Divisions)
 *   Data Validation & Data Integrity Management
 *   Operational Dashboard Design & Data Visualization
+
+*   ---
+
+## Project Screenshots
+
+### Master Log View
+![Master Log](master_log_.jpg)
+
+### KPI Dashboard View
+![KPI Dashboard](kpi_dashboard.jpg)
+
