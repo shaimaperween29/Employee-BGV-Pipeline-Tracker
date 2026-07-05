@@ -1,7 +1,7 @@
 # Employee Background Verification (BGV) Pipeline Tracker
 
 ## Project Overview
-This project simulates an entry-level HR Operations workflow utilized by professional service firms (such as KPMG India) to manage candidate onboarding risks. Built entirely using cloud-based spreadsheet modeling, this tool automates data integrity tracking and provides real-time operational insights for high-volume corporate vetting environments.
+This project simulates an entry-level HR Operations workflow utilized by professional service firms to manage candidate onboarding risks. Built entirely using cloud-based spreadsheet modeling, this tool automates data integrity tracking and provides real-time operational insights for high-volume corporate vetting environments.
 
 🚀 **[Click Here to View the Live Google Sheets Project](https://docs.google.com/spreadsheets/d/1ww79Ay2_X6DIUnniLFN9zwpbAqGmhuNKz9Y40NPKUzY/edit?usp=drivesdk)**
 
